@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Salt Lake City-Murray, UT Metro Area, US
 
-> Free BeamStation sample export with 159 rows and masked direct-contact fields.
+> Free BeamStation sample export with 129 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `657184` |
 | Location | Salt Lake City-Murray, UT |
 | Category | Restaurants |
-| Full dataset size | 1,591 records |
-| Free sample size | 159 records (9.99%) |
-| Last export | 2026-04-15T07:39:03.472407+00:00 |
+| Full dataset size | 1,292 records |
+| Free sample size | 129 records (9.98%) |
+| Last export | 2026-04-22T14:04:13.181551+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-salt-lake-city-murray-ut-metro-area-us-sample-657184/releases/download/sample-latest/beamstation_657184_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
