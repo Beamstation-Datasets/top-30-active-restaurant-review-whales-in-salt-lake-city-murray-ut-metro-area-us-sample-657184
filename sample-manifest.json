@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0883279d-ef96-4e56-9caf-6400acc46dd6",
+  "export_job_id": "0411f199-d30b-4bd7-931a-7969a8e3601e",
   "id_short": 657184,
-  "published_at": "2026-04-23T07:22:28Z",
+  "published_at": "2026-04-29T19:29:52Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-salt-lake-city-murray-ut-metro-area-us-sample-657184",
   "sample_asset_name": "beamstation_657184_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/657184/beamstation_657184_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
-  "sample_records": 129,
-  "sample_sha256": "415252b520ebebdb2e9e6627da7f2c4c7f86e8cb730a5e47a4fe502d10818f27",
-  "sample_size_bytes": 509337,
-  "total_records": 1292
+  "sample_records": 47,
+  "sample_sha256": "e89228b8b2a13d4701e29a6ca1b7aa71f6e42bff41682ea52a4db7462181e0b4",
+  "sample_size_bytes": 191954,
+  "total_records": 476
 }
